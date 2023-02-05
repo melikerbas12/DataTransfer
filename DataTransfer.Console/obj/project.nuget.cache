@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "hEUDk+ivMxQVBDLuZpm3uVYG0eTwmFkLCTeODTfcJCxPZxg2geIewz4i4SGNw2EICIGLruqt+BgSliGXqMV60g==",
+  "success": true,
+  "projectFilePath": "/Users/sahabt/Desktop/DataTransfer.Console/DataTransfer.Console.csproj",
+  "expectedPackageFiles": [
+    "/Users/sahabt/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.1/microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "/Users/sahabt/.nuget/packages/npgsql/7.0.0-preview.2/npgsql.7.0.0-preview.2.nupkg.sha512",
+    "/Users/sahabt/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/sahabt/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/sahabt/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
